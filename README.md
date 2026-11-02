@@ -40,6 +40,7 @@ I help organizations adopt AI safely and get real value from it, combining **AI 
 
 - **"AI Fluency as a Dimension of Cybersecurity Capital: An Extended Research Review."** Published in the Proceedings of the Southeastern INFORMS Conference (SEINFORMS) 2026; presented
 - **"Trust Erosion and Alert Fatigue: Examining the Impact of False-Positive Rates on Analyst Trust in AI-Driven Fraud Detection Systems Within Freight Brokerage Operations"** (with D. Livermore and J. Maxwellson). Presented, SEINFORMS 2026
+- **"A Comparative Risk Governance Framework for Agentic AI"** (with J. E. Maxwellson, E. Afolabi and A. Mbaziira). Zenodo, 2026. [doi:10.5281/zenodo.23841458](https://doi.org/10.5281/zenodo.23841458)
 - **Session Chair,** SEINFORMS 2026
 - **Speaker,** "Women Shaping the Future of Cyber," Cyber Saints WiCyS Conference, 2026
 
